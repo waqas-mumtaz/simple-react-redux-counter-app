@@ -1,5 +1,5 @@
 # simple-react-redux-counter-app
-Created with CodeSandbox : https://codesandbox.io/s/github/waqas-mumtaz/simple-react-redux-counter-app/tree/master/
+Demo link : https://5orc4.csb.app/
 
 This is a simple counter react app using Redux.
 
